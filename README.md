@@ -11,3 +11,5 @@ L'accès aux projections sera gratuit et ouvert à tous mais je souhaite que le 
 Je souhaite avoir une adresse professionnelle en .com ou en .org : je suis preneuse de conseils sur le meilleur choix pour l'adresse et je ne souhaite pas m'occuper de l'hébergement.
 En tant que développeur, on vous demande de lister les fonctionnalités dont a besoin la cliente et de proposer une solution technique adaptée. Vous devez donc sélectionner la solution qui vous semble la plus à même de répondre à son besoin : quels outils utiliser, éventuellement un CMS, etc.
 Vous devrez ensuite réaliser une première maquette de ce site correspondant à ses attentes, en utilisant uniquement HTML et CSS.
+
+@BlackrockDigital Template
